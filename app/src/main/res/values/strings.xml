@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Investigación</string>
+    <string name="email">Correo Electrónico</string>
+    <string name="password">Contraseña</string>
+</resources>
